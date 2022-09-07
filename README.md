@@ -10,3 +10,11 @@ The final exhibit would be **Griffin Halls of Evolving Planet & Sue the T. Rex**
 ***
 ## Directions
 The closest airport to the Field Muesusm is Midway International Airport. To get to the Field Muesum, first, you will go north on IL route 50, then in 1.7 miles turn right on I-55 North, then continue onto US-41 N toward Lake Shore Dr, then turn right on E McFetridge Dr, then in 900 ft take a left into the parking lot for the Field Muesum. 
+
+---
+
+Other locations around Field Muesum.
+* Grant Park
+* Navy Pier
+* Soldier Field
+* Northerly Island Park
