@@ -24,3 +24,22 @@ This section will be about cities I think others should visit. These are some ci
 > Fast is fine, but accuracy is everything. In a gun fight... You need to take your time in a hurry. - *Wyatt Earp*
 
 > Ruby is rubbish! PHP is phpantastic! – *Nikita Popov*
+
+---
+
+## Snippet Code
+> Is there some sort of Universal Code that embeds WMP into both Internet Explorer and Firefox, or do we need to implement some user-agent-detection and deliver different HTML for different browsers?
+
+[StackOverflow](https://stackoverflow.com/questions/164/embedding-windows-media-player-for-all-browsers)
+
+```
+<object type="video/x-ms-wmv" 
+  data="movie.wmv" 
+  width="320" height="260">
+  <param name="src" 
+    value="movie.wmv" />
+  <param name="autostart" value="true" />
+  <param name="controller" value="true" />
+</object>
+```
+[css-tricks](https://css-tricks.com/snippets/html/embedding-windows-media/)
