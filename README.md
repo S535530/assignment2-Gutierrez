@@ -18,3 +18,7 @@ Other locations around Field Muesum.
 * Navy Pier
 * Soldier Field
 * Northerly Island Park
+
+---
+
+[Github](https://github.com/S535530/assignment2-Gutierrez/blob/main/AboutMe.md)
