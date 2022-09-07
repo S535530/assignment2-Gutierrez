@@ -4,3 +4,16 @@ I am a Senior here at Northwest. I play the Trombone for the marching band and h
 ---
 
 [Github](https://github.com/S535530/assignment2-Gutierrez/blob/main/image0.jpeg)
+
+---
+
+## Cities to Visit
+This section will be about cities I think others should visit. These are some cities I have visited so I will be putting my reason others should visit them based on what I saw when I visited.
+
+## This is the cities table
+| Name | Location | Time |
+| --- | --- | ---: |
+| Chicago | Wrigley Field | A Day |
+| Washington DC | National Air and Space Muesum | Day |
+| St. Louis | City Muesum | Day |
+| San Antonio | Alamo and Boardwalk | Day |
