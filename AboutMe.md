@@ -17,3 +17,9 @@ This section will be about cities I think others should visit. These are some ci
 | Washington DC | National Air and Space Muesum | Day |
 | St. Louis | City Muesum | Day |
 | San Antonio | Alamo and Boardwalk | Day |
+
+---
+
+## Quotes I like
+> Fast is fine, but accuracy is everything. In a gun fight... You need to take your time in a hurry. - *Wyatt Earp*
+> Ruby is rubbish! PHP is phpantastic! – *Nikita Popov*
