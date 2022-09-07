@@ -22,4 +22,5 @@ This section will be about cities I think others should visit. These are some ci
 
 ## Quotes I like
 > Fast is fine, but accuracy is everything. In a gun fight... You need to take your time in a hurry. - *Wyatt Earp*
+
 > Ruby is rubbish! PHP is phpantastic! – *Nikita Popov*
